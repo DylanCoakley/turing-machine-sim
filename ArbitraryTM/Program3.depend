@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512055020 source:c:\users\dylan\desktop\school stuff\csci 356\program3\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cctype>
+
