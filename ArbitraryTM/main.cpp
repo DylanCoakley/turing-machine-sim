@@ -1,9 +1,4 @@
-/*  ---------------------------------------
- *  Name: Dylan Coakley
- *  Course: Csci 356
- *  Purpose: Programming Assignment #3
- *  Date: December 1, 2017
- *  ---------------------------------------
+/*
  *  This program simulates an arbitrary deterministic
  *  Turing Machine. It takes as input the transitions,
  *  and final states if any exist. It then runs through
